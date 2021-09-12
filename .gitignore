@@ -151,10 +151,5 @@ dmypy.json
 cython_debug/
 
 # End of https://www.toptal.com/developers/gitignore/api/django
-
-# custom ignore files
-Section 1 2 Getting Ready.html
-Section 3 Custom User Model Category and Media Files.html
-Section 4 Working with Products.html
-Section 5 Context Processors & Product Details.html
-Section 6 Setup Git and Start Carts Functionality.html
+# custom
+.vscode/
